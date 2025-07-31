@@ -71,7 +71,7 @@ NOTES:
 
 CONTACT:
 --------
-Developer: [Nevaan Duuta]  
+Developer: [Nevaan Dutta]  
 Email: [nevaandutta@gmail.com]  
 GitHub: https://github.com/nevaandutta
 
